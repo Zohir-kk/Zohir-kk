@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">- 🔭 I’m working on: Spotify replica<br>- 📚 I'm currently learning: typescript<br>- ⚡ In my free time: I teach english</h4>
+<h3 align="left">- 🔭 I’m working on: Spotify replica<br>- 📚 I'm currently learning: typescript<br>- ⚡ In my free time: I teach english</h3>
 
 ###
 
